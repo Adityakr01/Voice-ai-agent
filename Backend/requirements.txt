@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+aiohttp
+python-dotenv
+
+# LiveKit Agents (voice pipeline)
+livekit-agents[deepgram,cartesia,openai,silero,noise-cancellation]>=0.12.0
+livekit-api>=0.7.0
