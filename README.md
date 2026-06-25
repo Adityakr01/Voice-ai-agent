@@ -163,3 +163,13 @@ npm run build
 
 ---
 
+
+## OUTPUT
+
+<img width="1536" height="905" alt="live session" src="https://github.com/user-attachments/assets/5e25820a-7d1e-4fd4-b69c-babd24294f8c" />
+<img width="1536" height="889" alt="Recording and Capturing data" src="https://github.com/user-attachments/assets/f0aafc8a-1b50-4df5-a495-8ec99be709f2" />
+<img width="1536" height="876" alt="summary" src="https://github.com/user-attachments/assets/264213b6-bdbf-46f7-989d-c12304bcf1ba" />
+
+
+
+
